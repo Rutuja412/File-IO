@@ -7,6 +7,10 @@ namespace File_IO
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To File IO Project");
+           // FileOperation.FileExists();
+            FileOperation.ReadAllLines();
+            FileOperation.WriteAllLines();
+            FileOperation.WriteUsingStreamWriter();
         }
     }
 }
