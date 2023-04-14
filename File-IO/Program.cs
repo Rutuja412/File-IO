@@ -12,7 +12,8 @@ namespace File_IO
            // FileOperation.ReadAllLines();
           //  FileOperation.ReadFromStreamReader();
           // FileOperation.WriteUsingStreamWriter();
-          ReadWriteCSV.ImplementCSVDataHandling();  
+          ReadWriteCSV.ImplementCSVDataHandling();
+            ReadCSV_And_WriteJSON.ImplementCSVToJSON();
         }
     }
 }

@@ -1,0 +1,32 @@
+[
+    {
+        "FirstName": "Rutuja",
+        "LastName": "Kadam",
+        "Address": "satara",
+        "City": "Pune",
+        "State": "Mh",
+        "Zipcode": 121313,
+        "PhoneNumber": 123141,
+        "Email": "rk@gmai.com"
+    },
+    {
+        "FirstName": "Riya",
+        "LastName": "Jadhav",
+        "Address": "Nashik",
+        "City": "Pune",
+        "State": "Mh",
+        "Zipcode": 232422,
+        "PhoneNumber": 25266262,
+        "Email": "rj@gmai.com"
+    },
+    {
+        "FirstName": "Mona",
+        "LastName": "Pawar",
+        "Address": "Sangli",
+        "City": "Pune",
+        "State": "Mh",
+        "Zipcode": 234245,
+        "PhoneNumber": 13142552,
+        "Email": "mp@gmail.com"
+    }
+]
